@@ -1,0 +1,19 @@
+Screen1 As screen:
+
+    Label1 As label:
+        Height: =88
+        Size: =30
+        Text: ="Mais Poder, Menos Código!"
+        Width: =586
+        X: =40
+        Y: =40
+        ZIndex: =1
+
+    Button1 As button:
+        Height: =52
+        Text: ="Botão"
+        Width: =306
+        X: =40
+        Y: =158
+        ZIndex: =2
+
