@@ -4,10 +4,11 @@
     "App": 1,
     "Button1": 5,
     "Label1": 4,
+    "Label1_1": 6,
     "Screen1": 3
   },
   "FunctionParamsInvariantScripts": {},
-  "HeaderLastSavedDateTimeUTC": "01/27/2022 20:48:51",
+  "HeaderLastSavedDateTimeUTC": "01/27/2022 20:51:06",
   "LocalDatabaseReferencesAsEmpty": false,
   "LocalResourceFileNames": {},
   "LocalResourceRootPaths": {},
@@ -24,13 +25,16 @@
     "App": 0,
     "Button1": 1,
     "Label1": 0,
+    "Label1_1": 0,
     "Screen1": 0
   },
   "ResourcesJsonIndices": {},
   "TemplateVersions": {},
   "VolatileProperties": {
     "AnalysisLoadTime": 0.0211391,
-    "ControlCount": {},
+    "ControlCount": {
+      "label": 1
+    },
     "ErrorCount": 0
   }
 }

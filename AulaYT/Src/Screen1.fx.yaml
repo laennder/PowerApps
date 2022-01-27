@@ -11,9 +11,18 @@ Screen1 As screen:
 
     Button1 As button:
         Height: =52
-        Text: ="Botão"
+        Text: ="Novo Botão"
         Width: =306
         X: =40
         Y: =158
         ZIndex: =2
+
+    Label1_1 As label:
+        Height: =88
+        Size: =30
+        Text: ="Curte o vídeo, aí!"
+        Width: =586
+        X: =411
+        Y: =393
+        ZIndex: =3
 
